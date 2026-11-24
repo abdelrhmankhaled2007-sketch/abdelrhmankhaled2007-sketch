@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Khaled</h1>
 
-<h3 align="center">Computer and Ai Student at Cairo University 🎓</h3>
+<h3 align="center">Computer and AI Student at Cairo University 🎓</h3>
 
 <p align="center">
   Passionate about programming, problem-solving, and building creative projects.
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student at Cairo University.
+- 🎓 Computer and AI student at Cairo University.
 - 💻 Interested in Software Development and Machine Learning.
 - 🌱 Continuously learning and improving my programming skills.
 - 🚀 Enjoy building projects and solving programming challenges.
