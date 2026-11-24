@@ -19,7 +19,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode" />
 </p>
 
 ### 📊 GitHub Stats
